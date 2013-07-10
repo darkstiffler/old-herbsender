@@ -6,16 +6,16 @@
 	border: 5px solid #000;
 	position: relative;
 	top: 30px;
-	background-color:#01470C;
+	background-color:#23DB39;
 	margin: 0 auto;
 }
 legend {
 	color: black;
 }
 .mainLogo {
-	background-color: #01470C;
+	background-color: #23DB39;
 	height: 50px;
-	width: 900px;
+	width: 700px;
 	border: 4px solid black;
 	border-radius: 15px;
 	margin: 0 auto;
