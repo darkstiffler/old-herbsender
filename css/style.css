@@ -1,0 +1,21 @@
+.searchForm {
+	width: 500px;
+	height: 120px;
+	border-radius: 15px;
+	box-shadow: 6px 6px 20px #000;
+	border: 5px solid #000;
+	position: relative;
+	top: 180px;
+	background-color:#5CAD5C;
+	margin: 0 auto;
+}
+.btn:hover {
+	box-shadow: 2px 2px 5px #000;
+}
+.container {
+	background-image: url(http://wall-height.com/wp-content/uploads/2013/06/Weed-Wallpaper-Backgraund-HD.jpg);
+	background-repeat: no-repeat;
+	background-size: 920px;
+	height: 900px;
+	width: 920px;
+}
