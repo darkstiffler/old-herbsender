@@ -6,6 +6,6 @@ $(function() {
 		return false;
 	});
 	
-	$('html').css({ display : 'none'})    // doc fades in
-	$('html').fadeIn(1200);				// doc fades in
+	$('.searchForm').css({ display : 'none'})    // doc fades in
+	$('.searchForm').fadeIn(1200);				// doc fades in
 });
