@@ -1,11 +1,11 @@
 $(function() {
-	console.log("Loaded.");
+	console.log("Document loaded.");
 
-	$('.form-search').submit(function() {
-		alert('sumbitted');
+	$('form').submit(function() {
+		console.log("Submitted");
 		return false;
 	});
 	
-	$('.searchForm').css({ display : 'none'})    // doc fades in
-	$('.searchForm').fadeIn(1200);				// doc fades in
+	$('html').css({ display : 'none'})    // doc fades in
+	$('html').fadeIn(1200);				// doc fades in
 });
