@@ -28,12 +28,14 @@ legend {
 }
 #footer {
 	background-color: black;
-	height: 50px;
+	height: 90px;
 	color: white;
 }
 .mainLogin {
 	background-color: black;
+	text-align: right;
 	height: 30px;
+	padding: 10px;
 	color: white;
 }
 .btn:hover {
